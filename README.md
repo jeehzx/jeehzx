@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Comic+Sans&weight=700&size=40&pause=1000&color=F7155D&center=true&vCenter=true&random=false&width=999&height=120&lines=Hello+%E2%99%A1;I'm+J%C3%A9ssica+Rodrigues)](https://git.io/typing-svg)
 <hr>
-<h2 align="center">🌱 About Me</h2><p align="center">Aspiring Web Developer passionate about creating innovative and functional digital experiences. <br>
+<h2 align="center">🌱 About Me</h2><p align="center">Aspiring Web Developer passionate about art, music, anime, books and creating innovative and functional digital experiences. <br>
   I am continuously improving my skills and expanding my knowledge. <br>
   My goal is to enter the web development field professionally, contributing to challenging and cutting-edge projects.
 </p>
