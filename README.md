@@ -5,7 +5,6 @@
   I am continuously improving my skills and expanding my knowledge. <br>
   My goal is to enter the web development field professionally, contributing to challenging and cutting-edge projects.
 </p>
-<p align="center">🌍 I'm based in Portugal</p>
 <p align="center">🧠 I'm always trying to learning more...</p>
 <p align="center">🤝 I'm open to collaborating </p> 
 <p align="center">💬 I'm Fluent in Portuguese and Intermediate in English</p>
